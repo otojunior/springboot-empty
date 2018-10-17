@@ -3,16 +3,16 @@
  */
 package br.org.otojunior.sample.springboot.empty.entity;
 
-import lombok.Data;
-import lombok.EqualsAndHashCode;
+import lombok.Getter;
+import lombok.Setter;
 import lombok.ToString;
 
 /**
  * @author 01456231650
  *
  */
-@Data
-@EqualsAndHashCode(onlyExplicitlyIncluded = true, callSuper = true)
+@Getter
+@Setter
 @ToString(callSuper = true)
 public class Item extends AbstractEntity {
 	private Long codigo;

@@ -11,7 +11,6 @@ import lombok.EqualsAndHashCode;
  *
  */
 @Data
-@EqualsAndHashCode(onlyExplicitlyIncluded=true)
 public abstract class AbstractEntity {
 	@EqualsAndHashCode.Include
 	private Long id;
