@@ -18,6 +18,7 @@ public class SpringbootEmptyApplication {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		//System.out.println("\u2593\u2593\u2593\u2593\u2593\u2593\u2592\u2592\u2592\u2591\u2591\u2591");
 		SpringApplication.run(SpringbootEmptyApplication.class, args);
 	}
 }

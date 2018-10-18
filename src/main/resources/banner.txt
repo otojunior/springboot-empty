@@ -1,1 +1,1 @@
-	::: SPRINGBOOT-EMPTY :::
+${AnsiColor.BRIGHT_RED}░░░▒▒▒▓▓▓${AnsiColor.RED}▓▓▓ ::: SPRINGBOOT-EMPTY ::: ▓▓▓${AnsiColor.BRIGHT_RED}▓▓▓▒▒▒░░░${AnsiColor.DEFAULT}
